@@ -18,7 +18,7 @@ mkdir dev
 cd dev
 ```
 ```
-git clone https://github.com/azerothcore/azerothcore-wotlk.git
+git clone https://github.com/trickerer/AzerothCore-wotlk-with-NPCBots
 ```
 安装MOD插件
 
